@@ -1,17 +1,14 @@
-# React JS Startup and small business website template
+Here's an updated GitHub repository description that emphasizes it's a frontend-only project:
 
-## Description
+# AAF - Digital Wallet Web
 
-This is a ReactJS based startup and small business website.
-It was designed using TailwindCSS and React. 
+A modern digital wallet frontend interface built with React and Tailwind CSS. This responsive UI layer provides an intuitive experience for digital financial management, designed to connect with backend wallet services.
 
-## How to use it
+## Key Features
+- User-friendly interface for managing digital assets
+- Responsive design optimized for all devices
+- Clean visualization of transactions and balances
+- Seamless user flows for financial operations
+- Styled with Tailwind for consistent, maintainable UI
 
-To use this template:
-1. Clone the repository to your local machine, 
-2. run `npm install` to install all the required dependencies and
-3. run `npm start` to view the website locally.
-Feel free to edit and make changes. 
-
-You can also Fork the repo and clone to your local machine, make desired changes and enjoy.
-# aaf-digital-product
+Tech stack: React.js, Tailwind CSS
